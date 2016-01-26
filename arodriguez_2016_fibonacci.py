@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
+=======
+#Main File; defines function for storing Fibonacci Sequence in a list and printing list
+>>>>>>> origin/master
 def fibo(int):
     #Indices 0 & 1 are pre-set; Addition begins at index 2
     fibo_list = [0,1];
